@@ -20,4 +20,4 @@ Requirements
 - [Python Twitter Tools](https://github.com/sixohsix/twitter)
 - [word_cloud](https://github.com/amueller/word_cloud)
 - [imgurpython](https://github.com/Imgur/imgurpython)
-
+- [Executing Javascript in Python] (http://stackoverflow.com/questions/10136319/executing-javascript-from-python) //Will come in handy later
